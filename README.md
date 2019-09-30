@@ -1,5 +1,5 @@
 # HyperCube-Quicksort
-Implementation in C++ using OpenMPI. Implement a broadcast operation within an L-dimensional subcube. 
+Implementation in C using OpenMPI. Implement a broadcast operation within an L-dimensional subcube. 
 An MPI program to perform hypercube quicksort
 
 Initially, each process randomly generates n local elements
