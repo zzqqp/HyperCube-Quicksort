@@ -1,4 +1,5 @@
 # HyperCube-Quicksort
+A  message passing interface (MPI) program for parallel computing.
 Implementation in C using OpenMPI to perform hypercube quicksort.
 
 Pseudocode:
