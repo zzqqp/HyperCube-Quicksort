@@ -1,4 +1,4 @@
-This program is the simplest GPU implementation to exercise the basic pattern of host-to-device copy + GPU-SIMD computing + device-to-host copy.
+This program is the GPU implementation of host-to-device copy + GPU-SIMD computing + device-to-host copy.
 
 The program parallelize the one-dimensional quantum dynamics by combining MPI, OpenMP and CUDA.
 
